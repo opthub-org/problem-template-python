@@ -30,6 +30,9 @@
   "cSpell.words": [
     "jsonschema",
     "opthub",
+    "pypandoc",
+    "pyproject",
+    "pytest"
   ],
 
   // Format setting

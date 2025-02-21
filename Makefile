@@ -11,7 +11,7 @@ test:
 
 build:
 	echo Building $(NAME)...
-	docker build -t opthub/problem-$(NAME) . # modify here
+	docker build -t opthub/problem-$(NAME) .
 
 push:
 	echo Pushing $(NAME)...
